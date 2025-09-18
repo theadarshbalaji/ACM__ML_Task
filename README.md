@@ -7,7 +7,7 @@ This project was developed as part of the **ACM ML Task** assignment. It involve
 
 ## 📂 Repository Structure  
 - **`Main.ipynb`** – Jupyter Notebook containing the full code (data cleaning, feature engineering, model training, evaluation).  
-- **`Report`** – Written report with insights and explanations.  
+- **`Summary Report`** – Written report with insights and explanations.  
 - **`README.md`** – Project documentation.  
 
 ---
